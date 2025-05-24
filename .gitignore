@@ -1,4 +1,2 @@
 .venv/
-data/raw(xls)/
-data/raw(xlsx)/
-data/active/
+data/raw/
